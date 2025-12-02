@@ -1,0 +1,43 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "98-233-8131",
+  "taxFormId" : "7359681",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0859555",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Williamson, Ritchie and Haley"
+    },
+    "address" : {
+      "line1" : "3029 Osinski Radial",
+      "city" : "North Elizebethmouth",
+      "region" : "NV",
+      "postalCode" : "41846"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "marquetta.nolan@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-34-1508",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Colton",
+      "last" : "Rutherford"
+    },
+    "address" : {
+      "line1" : "0319 Wisoky Island",
+      "city" : "Mosciskihaven",
+      "region" : "OR",
+      "postalCode" : "83523"
+    },
+    "email" : "toney.oberbrunner@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "871-88559-3",
+  "studentLoanInterest" : 200,
+  "box1ExcludesFees" : true
+}

@@ -1,0 +1,43 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "46-429-4691",
+  "taxFormId" : "2862731",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0859555",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Williamson, Ritchie and Haley"
+    },
+    "address" : {
+      "line1" : "3029 Osinski Radial",
+      "city" : "North Elizebethmouth",
+      "region" : "NV",
+      "postalCode" : "41846"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "marquetta.nolan@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-68-2791",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Jame",
+      "last" : "Rohan"
+    },
+    "address" : {
+      "line1" : "393 Wunsch Highway",
+      "city" : "Nienowmouth",
+      "region" : "NM",
+      "postalCode" : "22834"
+    },
+    "email" : "penelope.rice@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "866-91175-2",
+  "studentLoanInterest" : 200,
+  "box1ExcludesFees" : true
+}
