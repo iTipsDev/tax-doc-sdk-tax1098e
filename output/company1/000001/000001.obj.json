@@ -1,0 +1,51 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "12-248-7035",
+  "taxFormId" : "2765148",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0049471",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Baumbach Group"
+    },
+    "address" : {
+      "line1" : "788 Kris Trace",
+      "city" : "Port Donnellfort",
+      "region" : "IA",
+      "postalCode" : "70618",
+      "unitType" : "Apt",
+      "unitNumber" : "096"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "celesta.zboncak@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-36-5965",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Theo",
+      "middle" : "Lou",
+      "last" : "Collins"
+    },
+    "businessName" : {
+      "name1" : "Lesch Inc"
+    },
+    "address" : {
+      "line1" : "2527 Cassondra Glen",
+      "city" : "Lake Halmouth",
+      "region" : "ND",
+      "postalCode" : "26022",
+      "unitType" : "Apt",
+      "unitNumber" : "728"
+    },
+    "email" : "otelia.mueller@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "945-24334-5",
+  "studentLoanInterest" : 200,
+  "box1ExcludesFees" : true
+}

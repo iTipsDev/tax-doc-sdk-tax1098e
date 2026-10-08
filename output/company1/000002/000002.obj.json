@@ -1,0 +1,51 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "09-998-5075",
+  "taxFormId" : "6997766",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0049471",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Baumbach Group"
+    },
+    "address" : {
+      "line1" : "788 Kris Trace",
+      "city" : "Port Donnellfort",
+      "region" : "IA",
+      "postalCode" : "70618",
+      "unitType" : "Apt",
+      "unitNumber" : "096"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "celesta.zboncak@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-85-2292",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Ashton",
+      "middle" : "Sandie",
+      "last" : "Jacobi"
+    },
+    "businessName" : {
+      "name1" : "Yundt-Rodriguez"
+    },
+    "address" : {
+      "line1" : "71979 Raymundo Plains",
+      "city" : "Joanbury",
+      "region" : "AL",
+      "postalCode" : "05859",
+      "unitType" : "Apt",
+      "unitNumber" : "269"
+    },
+    "email" : "magaret.murray@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "238-17328-5",
+  "studentLoanInterest" : 200,
+  "box1ExcludesFees" : true
+}

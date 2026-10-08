@@ -1,0 +1,51 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "07-430-6857",
+  "taxFormId" : "5240738",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0049471",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Baumbach Group"
+    },
+    "address" : {
+      "line1" : "788 Kris Trace",
+      "city" : "Port Donnellfort",
+      "region" : "IA",
+      "postalCode" : "70618",
+      "unitType" : "Apt",
+      "unitNumber" : "096"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "celesta.zboncak@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-62-2521",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Bryant",
+      "middle" : "Mariano",
+      "last" : "Kreiger"
+    },
+    "businessName" : {
+      "name1" : "Murphy Inc"
+    },
+    "address" : {
+      "line1" : "00162 Gil Meadows",
+      "city" : "East Craig",
+      "region" : "AR",
+      "postalCode" : "82358",
+      "unitType" : "Apt",
+      "unitNumber" : "152"
+    },
+    "email" : "adrian.dickens@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "587-88521-2",
+  "studentLoanInterest" : 200,
+  "box1ExcludesFees" : true
+}
